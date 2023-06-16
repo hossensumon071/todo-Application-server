@@ -1,0 +1,12 @@
+{
+    "tasks" : [
+        {
+            "text": "learn React",
+            "id": 1
+        },
+        {
+            "text": "learn Redux",
+            "id": 2
+        }
+    ]
+}
